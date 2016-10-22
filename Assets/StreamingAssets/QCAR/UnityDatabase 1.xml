@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AceOfSpades" size="1.000000 1.450000" />
+    <ImageTarget name="kocka" size="1.000000 1.777778" />
+    <ImageTarget name="14393309_955442494564531_74746517_o" size="1.000000 1.777778" />
+    <ImageTarget name="aceofspade" size="1.000000 1.395349" />
+    <ImageTarget name="aceofheart" size="1.000000 1.400000" />
+  </Tracking>
+</QCARConfig>
